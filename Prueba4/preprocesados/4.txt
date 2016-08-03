@@ -1,0 +1,50 @@
+ comport etic ingenier softwar
+ codig etic
+ etic empres
+ etic informat
+ codig etic conduct personal
+ codig etic ingeni softwar
+ codig etic gestion proyect
+ introduccion gestion proyect
+ import gestion proyect
+ element basic gestion proyect
+ figur gestor proyect
+ desarroll proyect exit
+ proces gestion proyect
+ grup proces
+ are conoc
+ vist integral proces proces inici
+ concepcion proyect
+ identif analisis interes
+ restriccion proyect
+ determin factibil proyect
+ document fas inici
+ proces planif
+ plan proyect
+ estructur desagreg
+ estim cost
+
+ calendariz proyect
+
+ elabor presupuest proyect
+
+ evalu parcial er bimestr monitore control proyect
+ control proyect
+ gestion cambi
+ gestion orient entreg gestion incident
+ gestion riesg proyect
+ gestion calid proyect proces ejecu proyect
+ administr liderazg proyect
+ gestion comun proyect gestion expect
+ tecnic motiv equip
+ gestion adquisicion proyect
+ cierr proyect
+ cierr proyect fas
+ cierr adquisicion
+ leccion aprend
+ program certif pmi
+ pmi
+ tip certif
+ proces certif
+ explic prepar exam
+ evalu defens trabaj

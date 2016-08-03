@@ -1,0 +1,60 @@
+<U+FEFF> unid arbol clasif
+
+ introduccion
+
+ seleccion division
+
+
+
+unid arbol clasif
+
+ arbol parsimoni
+
+ tratamient inform incomplet
+
+ algoritm conoc
+unid regl neuronal
+
+ introduccion
+
+ perceptron simpl
+
+ neuronal lineal algoritm lms
+unid regl neuronal
+
+ ajust pes cap sal
+
+ ajust pes cap ocult
+unid regl neuronal
+
+ memori asoci
+ unid model ocult markov
+
+ arquitectur
+unid analisis clust
+
+ introduccion
+
+ distanci simil
+unid analisis clust metod jerarqu
+
+ metod minim
+
+ metod maxim
+unid analisis clust metod particional
+
+ clust bas distanci
+ unid analisis clust
+
+ algoritm k medi
+unid aspect avanz arbol clasif
+ combin arbol
+
+ manej volum dat
+unid razon ontolog
+ unidad
+ unidad
+unid model ocult markov
+
+ arquitectur
+ unidad

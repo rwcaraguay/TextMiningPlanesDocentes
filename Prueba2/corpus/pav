@@ -1,0 +1,16 @@
+﻿|Unidad 1: Modelo UML orientado a la Generación de Código1.1: Ciclo de Vida del Desarrollo de Sistemas Orientado a Objetos1.2: Fase de Inicio1.2.1: Diagrama de casos de uso1.2.2: Diagrama de actividades
+ Unidad 1.1.3:  Fase de Descubrimiento1.3.1: Diagrama de Estado1.3.2: Diagrama de Clases 
+Unidad 1.1.4: Fase de construcción1.5: Fase de verificar y validación1.6: Fase de cierre 
+Unidad 1.1.7: Generación de esquemas y código a partir de UML
+Unidad 2: Interfaz Gráfica de Usuario2.1: Introducción2.2: Entrada/Salida simple basada en GUI 2.3: Generalidades de los componentes Swing2.4: Campos, textos e imágenes.2.5: Manejo de Eventos
+ Unidad 22.6: Botones2.7: Listas2.8: Cargar, montar y escalar imágenes2.9: Animación de una serie de imágenes2.10: JSlider2.11: Ventanas2.12: Uso de menús2.13: Apariencia visual adaptable2.14: Administración de Esquemas
+ Revisión de unidades 1 y 2
+Evaluación
+ Unidad 3:3.1: Introducción a Base de Datos.3.2: Bases de Datos relacionales 
+Unidad 33.3: Generación de Esquemas de Base de Datos a partir de UML.3.4: Conexión a Base de Datos3.5: Ejecución de sentencias CRUD
+ Unidad 4: Programación Multitarea4.1: Subprocesamiento múltiple4.2: Estados de los subprocesos
+ Unidad 4:4.3: Creación y ejecución de subprocesos4.4: La interfaz RUNNABLE 
+Unidad 5: Introducción Aplicaciones WEB5.1: transacción HTTP simple.5.2: Arquitectura de aplicaciones multinivel
+Unidad 5: Expresiones Regulares en Java5.1: Expresiones Regulares en Java5.2: Validaciones con Expresiones Regulares.
+Revisión de unidades 3,4 y 5
+Evaluación

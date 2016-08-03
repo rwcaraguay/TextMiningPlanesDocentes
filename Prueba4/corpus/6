@@ -1,0 +1,49 @@
+|Clases y Objetos en Java
+
+• Review: Que es programación orientada a objetos (Clases, Objetos, métodos y variables de instancia).
+• Atributos (primitivos/por referencia), niveles de acceso (publicar, privado, protección, static) e inicialización (final, this). Clases y Objetos en Java (continua)
+• Métodos, propiedad (set, get), constructores y sobrecarga. 
+• Encapsulamiento, ocultación y Paquetes.  Clases y Objetos en Java: Herencia
+
+• Superclases y subclases.
+• Nivel de acceso protección.
+• Constructores de subclases.
+• El API de Java. Clases y Objetos en Java: Polimorfismo
+
+• Fundamentos de Polimorfismo
+• Demostración del comportamiento Polimórfico. 
+• Clases y métodos abstractos. Gestión de Excepciones en java
+
+• Fundamentos sobre el manejo de excepciones.
+• Las excepciones en el API de Java.
+• Uso de try-catch-final. Gestión de Excepciones en java (continua)
+
+• La instrucción throw-throw.
+• Limpieza de la pila y excepciones encadenadas. 
+• Generar excepciones propias. Revisión y conclusiones de: programación orientada a objetos, Paquetes, API-Java, Herencia, Polimorfismo y Manejo de Excepciones.  Evaluación de los contenidos del primer. bimestre. 
+
+programación orientada a objetos-Conceptos básicos.
+programación orientada a objetos-Herencia.
+programación orientada a objetos-Polimorfismo.
+Manejo de Excepciones.  Programación de ficheros con Java
+
+• Conceptos preliminares sobre los datos.
+• Flujos en Java. Programación de ficheros con Java (continua)
+
+• Escritura y lectura de datos en ficheros.
+• Uso de las clases FileInputStream y FileOutputStream. Algoritmos recursivos
+
+• Introducción y conceptos básicos de recursividad 
+• Aplicación de la recursividad Algoritmos sobre arreglos
+
+• Estructura de un arreglos.
+• For mejorado. 
+• Arreglos multidimensionales. 
+• Algoritmos de búsqueda. Algoritmos sobre arreglos (continua)
+• Algoritmos de ordenamiento .
+• Operaciones adicionales en un arreglo. Review de los contenidos del segundo. bimestre: arreglos/matriz, algoritmos de ordenamiento, búsqueda, recursivos y finalmente archivos en java.  Defensa del Proyecto de fin de ciclo. 
+
+Face de desarrollo.
+Face de implementación.
+Face de pruebas.
+Face de documentación. Evaluación de contenidos y competencias sobre los temas del 2do. bimestre: Archivos en java, arreglos/matriz, algoritmos de ordenamiento, búsqueda y recursivos.

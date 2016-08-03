@@ -1,0 +1,16 @@
+<U+FEFF> unid model uml orient gener codig cicl vid desarroll sistem orient objet fas inici diagram cas uso diagram activ
+ unid fas descubr diagram diagram clas
+unid fas construccion fas verific valid fas cierr
+unid gener esquem codig uml
+unid interfaz grafic usuari introduccion entrad sal simpl bas gui general component swing camp text imagen manej event
+ unid boton list carg mont escal imagen anim seri imagen jslid ventan uso menus aparient visual adapt administr esquem
+ revision unidad
+evalu
+ unid introduccion dat bas dat relacional
+unid gener esquem dat uml conexion dat ejecu sentenci crud
+ unid program multitare subproces multipl subproces
+ unid creacion ejecu subproces interfaz runnabl
+unid introduccion aplic web transaccion http simpl arquitectur aplic multinivel
+unid expresion regular jav expresion regular jav valid expresion regular
+revision unidad
+evalu

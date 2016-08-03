@@ -1,0 +1,44 @@
+<U+FEFF> papel softwar product empres
+
+ desarroll profesional softwar
+etic ingeni softwar
+cost complej softwar evalu implement
+
+concept
+activ
+implement valid prueb softwar
+
+ proces prueb
+plan prueb
+ejecu prueb desarroll prueb desarroll prueb evalu proces unific rational
+
+proces
+activ
+ artefact proces ingeni softwar
+
+model proces softwar
+ activ proces
+com enfrent cambi
+ desarroll agil softwar ingeni requer
+
+requer funcional funcional
+ proces ingeni requer
+document requer softwar model cas uso
+
+model actor
+ diagram
+especif
+ diseñ arquitecton
+
+ decision diseñ arquitecton
+ vist arquitecton diseñ arquitecton
+
+estil patron arquitecton diseñ arquitecton
+
+arquitectur aplic model estat sistem
+
+objet
+clas model dinam sistem
+
+diagram interaccion
+ maquin

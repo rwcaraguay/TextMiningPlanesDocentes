@@ -1,0 +1,26 @@
+ tecnic estim
+ revision inspeccion medicion metric softwar
+evalu
+ gestion proyect
+ gestion riesg
+ gestion personal
+ equip
+ fijacion preci softwar
+ planeacion proyect
+ desarroll dirig plan
+ calendariz proyect
+ planeacion agil
+ gestion calid
+ calid softwar
+ estand softwar
+ administr configur
+ administr cambi
+ gestion version
+ construccion sistem
+ gestion entreg softwar
+ mejor proces
+ proces mejor proces
+medicion proces
+analisis proces
+cambi proces
+ marc mejor proces cmmi

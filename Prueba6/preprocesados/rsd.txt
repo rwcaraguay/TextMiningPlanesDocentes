@@ -1,0 +1,15 @@
+<U+FEFF> algoritm enrut algoritm enrut enlac algoritm enrut vector distanci enrut jerarqu
+revsion bimestr
+transport conexion transport conexion estructur segment udp sum comprob udp
+principi servici transaccion fiabl construccion protocol transaccion dat fiabl protocol transaccion dat fiabl proces caden
+principi servici transaccion fiabl retroced gbn repeticion select
+ transport orient conexion conexion tcp estructur segment tcp temporiz transaccion dat fiabl control fluj gestion conexion tcp
+control congestion introduccion congestion metod control congestion mecan control congestion tcp
+present bimestr
+ exam bimestral
+ introduccion cap red enrut model servici red
+ red circuit datagram red circuit virtual red datagram enrut puert entrad entram conmut puert sal
+protocol internet format datagram direccion ipv protocol mensaj control internet icmp distribu red subred superred rut defect
+algoritm enrut enrut intern sistem enrut intern as enrut sistem autonom
+exam bimestral
+ introduccion cap transport relacion cap transport cap red cap transport multiplex demultiplex multiplex demultiplex cont

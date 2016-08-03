@@ -1,0 +1,71 @@
+<U+FEFF> unid
+introduccion bas dat
+• import bas dat
+• sistem tradicional bas archiv
+• sistem bas dat
+• papel entorn dat
+• histori sistem gestion bas dat
+• ventaj desventaj sgbd
+
+ unid
+ entorn bas dat
+• arquitectur nivel ansi sparc
+• lenguaj bas dat
+• model dat model conceptual
+ funcion sgbd
+• component sgbd
+• arquitectur sgbd multiusuari unid
+ model relacional
+• histori model relacional
+• terminolog uso model relacional
+• restriccion integr
+• vist unid
+algebr relacional calcul relacional
+• algebr relacional
+• oper unari
+• oper conjunt
+ unid
+algebr relacional calcul relacional
+• calcul relacional unid
+sql manipul dat
+• lenguaj consult estructur sql
+• escritur comand sql
+
+ unid
+sql manipul dat
+•• construccion consult select
+• manipul dat insert updat delet sql definicion dat
+ tip dat
+ caracterist mejor integr
+ definicion dat
+ privilegi segur evalu bimestr unid
+metodolog diseñ conceptual bas dat
+• element model entid relacion tip entid
+• tip relacion
+• atribut
+• atribut relacion
+• clav unid
+metodolog diseñ conceptual bas dat
+• tip entid fuert debil
+• restriccion estructural
+• model entid relacion avanz unid
+metodolog diseñ logic bas dat
+• metodolog diseñ logic bas dat model relacional
+• pas construccion valid model logic dat
+ unid normaliz
+• objet diseñ bas dat
+• peligr diseñ bas dat relacional
+• normaliz
+• proposit normaliz
+• com ayud normaliz diseñ bas
+• dat
+• redund dat anomal actualiz
+• dependent funcional
+• proces normaliz unid
+fundament bas sql
+• import bas dat sql organiz
+• analisis bas dat sql
+ unid
+fundament bas sql
+ framework rdf resourc description framework
+revision sparql lenguaj consult bas dat nosql present proyect evalu bimestr

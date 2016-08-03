@@ -1,0 +1,16 @@
+ introduccion program concept basic program proces program element solucion problem pseudocodig
+secuenci tip dat constant variabl oper aritmet funcion expresion matemat entrad proces sal inform
+estructur funcion expresion logic relacional seleccion simpl dobl multipl if’ anid
+estructur repetit contador acumul cicl do…whil
+cicl for for anid simul for do whil
+cicl whil simul for do whil whil
+repas refuerz competent
+evalu bimestr
+estructur dat arregl introduccion arregl arregl unidimensional oper arregl
+arregl bidimensional matriz tridimensional oper matriz
+metod introduccion metod regres format clas metod
+ambit variabl local global parametr referent funcion estand metod regres
+program orient objet introduccion objet clas relacion objet metod encapsul diseñ diagram clas gener instanci clas model – vist – control
+program orient objet secuenci diseñ algoritm orient objet constructor destructor ejercici
+program orient objet seleccion repeticion arregl diseñ algoritm orient objet uso if else switch diseñ algoritm orient objet uso do…whil for whil diseñ algoritm orient objet uso arregl matriz
+evalu bimestr

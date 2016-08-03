@@ -1,0 +1,22 @@
+<U+FEFF> conten
+principi aplic red
+ conten
+direccion ipv vlans trunk
+ conten
+enrut vlans
+ conten
+
+ enrut estat
+ conten
+protocol enrut dinam rip ospf
+ conten
+protocol enrut dinam ripv eigrp
+ entreg revision proyect bimestr exam bimestral conten
+ rout maps tunel conten
+rut backup autorecuper enlac
+ conten
+conexion internet nat conten
+monitore – noc soc
+ conten
+rendimient red
+ conten ipv movil revision trabaj bimestr evalu bimestr

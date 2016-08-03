@@ -1,0 +1,49 @@
+ clas objet jav
+
+• review program orient objet clas objet metod variabl instanci
+• atribut primit referent nivel acces public priv proteccion static inicializ this clas objet jav continu
+• metod propied set get constructor sobrecarg
+• encapsul ocult paquet clas objet jav herenci
+
+• supercl subcl
+• acces proteccion
+• constructor subcl
+• api jav clas objet jav polimorf
+
+• fundament polimorf
+• demostr comport polimorf
+• clas metod abstract gestion excepcion jav
+
+• fundament manej excepcion
+• excepcion api jav
+• uso try catch gestion excepcion jav continu
+
+• instruccion throw throw
+• limpiez pil excepcion encaden
+• gener excepcion revision conclusion program orient objet paquet api jav herenci polimorf manej excepcion evalu conten bimestr
+
+program orient objet concept basic
+program orient objet herenci
+program orient objet polimorf
+manej excepcion program ficher jav
+
+• concept preliminar dat
+• fluj jav program ficher jav continu
+
+• escritur lectur dat ficher
+• uso clas fileinputstream fileoutputstream algoritm recurs
+
+• introduccion concept basic recurs
+• aplic recurs algoritm arregl
+
+• estructur arregl
+• for mejor
+• arregl multidimensional
+• algoritm busqued algoritm arregl continu
+• algoritm orden
+• oper adicional arregl review conten bimestr arregl matriz algoritm orden busqued recurs final archiv jav defens proyect cicl
+
+fac desarroll
+fac implement
+fac prueb
+fac document evalu conten competent tem do bimestr archiv jav arregl matriz algoritm orden busqued recurs

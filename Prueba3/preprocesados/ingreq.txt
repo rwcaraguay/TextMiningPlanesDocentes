@@ -1,0 +1,46 @@
+ organiz planif
+ administr
+ manej
+ evit retras
+ list tar
+ prioriz tar
+ autodisciplin requer softwar
+ requer naturalez
+ particip proces requer
+ proces requer ingeni softwar
+ declar vision
+ glosari termin
+ gestion riesg requer softwar captur requer softwar
+ fuent requer
+ analisis interes
+ entrev personal
+ tall grupal
+
+ prototip
+ grup focal
+ observ
+ analisis tar usuari
+ estudi document existent
+ encuest
+ planif captur requer
+ analisis requer
+ import analisis requer
+ cicl vid analisis requer
+ model negoci
+ herramient analisis requer
+ herramient analisis requer
+ model requer cas uso
+ business cas uso
+ softwar cas uso
+ diagram cas uso
+ especif cas uso
+ valid cas uso document requer
+ document requer usuari
+ document especif requer softwar document especif requer softwar continu valid requer
+ revision par
+ prueb acept usuari valid model
+ prototip operacional administr requer
+ polit proced control cambi atribut requer
+ matriz trazabil requer planif iter
+
+ leccion parcial

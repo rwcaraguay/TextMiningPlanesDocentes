@@ -1,0 +1,44 @@
+.footer{
+	background:#ccc;
+	width: 119.9%;
+	height: 100px;
+	position: relative;
+	left: -115px;
+	right: 0px;
+}
+.footer p{
+	padding: 45px 0px 0px 100px;
+}
+header{
+	background:#1967BE;
+	width: 119.9%;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-left: 115px;
+    padding-right: 115px;
+    position: relative;
+    left: -10%;
+}
+header h2{
+	color: white;
+	text-align: center;
+}
+.descripcion{
+	width: 124%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    line-height: 32px;
+}
+.tmtd{
+	overflow-x: auto;
+    font-size: 11px;
+}
+.texto_descripcion{
+	text-align: justify;
+	width: 112%;
+    margin-left: 3.5em;
+    line-height: 28px;
+}
