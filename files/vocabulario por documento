@@ -1,0 +1,271 @@
+ARQCOMP
+direccion
+dma
+microarquitectur
+cicl instruccion
+memori
+
+ARQCOMPAR
+unix
+memori compart
+comun proces
+cerroj
+lector escritor
+jav
+
+ARQAPP
+program orient objet
+tecnolog distribu
+patron creacional
+patron relacional
+patron estructural
+patron comport
+rest
+
+AUDITORIA INF
+cobit
+control intern
+departament auditor
+outsourcing
+segur fisic
+auditor segur
+
+ARQSEGRED
+direccion ipv
+vlans
+conexion
+internet
+enrut dinam
+rip
+
+BDAv
+bas dat relacional
+segur
+oracl
+sgbd
+web
+replic bas dat
+bas dat movil
+bas dat semant
+
+COMPIL
+automat finit
+teor automat
+expresion regular
+analisis lexic
+analisis sintact
+
+CONTA
+cuent activ
+caj
+capital
+ingres
+egres
+contabil
+empres
+plan cuent
+cuent ingres
+
+ELECDIG
+circuit logic
+flip flops
+disposit
+multiplexor
+
+ESTADISTICA
+estadist
+distribu frecuenci
+distribu probabil discret
+med
+distribu probabil continu
+distribu probabil normal
+teorem limit central
+muestre
+
+FUNDBD
+entorn bas dat
+sgbd
+model relacional
+algebr relacional
+calcul relacional
+sql
+segur
+model entid relacion
+normaliz
+
+FUNINF
+cienci comput
+informat
+logic proposicional
+arquitectur von neumann
+desarroll sistem
+web semant
+sistem numer
+inteligent artificial
+
+FISICA
+cinemat
+veloc
+rapidez
+aceler
+energ cinet
+carg electr
+camp electr
+electr diferent
+energ potencial
+corrient electr
+
+FUNINGSOFT
+ingeni softwar
+diagram
+ingeni requer
+prueb desarroll
+cas uso
+
+FUNPROG
+program
+do whil
+for
+arregl
+matriz
+clas
+metod
+program orient objet
+
+GESTPROY
+etic
+codig etic
+ingeni softwar
+gestion proyect
+cost
+calendariz proyect
+control proyect
+gestion riesg
+gestion calid
+cierr proyect
+pmi
+
+GTI
+ea cub framework
+riesg
+gestion tecnolog inform
+negoci
+document arquitectur empresarial
+cultur empresarial
+
+IAAv
+arbol clasif
+algoritm
+regl neuronal
+ajust pes
+model ocult markov
+analisis clust
+
+ING. REQUI
+tar
+proces requer
+prototip
+document especif requer
+captur requer
+analisis requer
+especif requer softwar
+cas uso
+requer softwar
+document requer
+
+ING WEB
+php
+instal
+laravel
+desarroll modul
+gestion usuari
+maquet
+metodolog desarroll web
+accesibil
+web app
+
+LOGPROG
+logic program
+silog
+proposicion
+premis
+variabl
+domini
+regl procedent
+algoritm orient dat
+miniespecif
+prueb escritori
+diagram fluj
+program orient objet
+
+MATDISC
+proposicion
+teor grafic
+algebr boolean
+circuit combinatori
+isomorf
+model red
+
+OAE
+polit
+premis
+reingeni
+recurs human
+departamentaliz
+tecnolog inform
+comerci
+
+PROGAVAN
+uml
+cas uso
+diagram clas
+subproces
+expresion regular
+
+PROCINGSOFT
+recurs human
+gestion proyect
+gestion riesg
+gestion calid
+mejor proces
+calendariz proyect
+
+PROALG
+program orient objet
+clas
+metod
+variabl
+jav
+constructor
+herenci
+api jav
+polimorf
+excepcion
+program ficher jav
+algoritm orden
+
+REDSISTDIST
+algoritm enrut
+udp
+protocol transaccion dat
+tcp
+cap red
+cap transport
+datagram
+enrut intern
+multiplex
+demultiplex
+
+SBC
+web
+vocabulari abiert
+ontolog
+consult
+dat rdf
+
+SO
+sistem oper
+gestion memori
+interfaz sistem archiv
+hardwar
+sistem distribu
